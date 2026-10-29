@@ -1,0 +1,8 @@
+name: passify_mobs
+version: '${version}'
+
+main: io.github.corvidina.passify_mobs.PassifyMobs
+api-version: '1.21.10'
+load: POSTWORLD
+
+authors: [ Corvidina ]
