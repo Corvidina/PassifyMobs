@@ -11,3 +11,8 @@ server, you must log into the server and run the command
 The mobs are only passified to select players. This player list can be added
 to or removed from with the command */passive_to*. The players on this
 list can also be read with this command.
+
+## NOTA BENE
+
+If you are using other plugins which utilize Minecraft's underlying team
+system this will be incompatible because entities can only be on one team at a time.
